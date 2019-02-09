@@ -1,0 +1,16 @@
+PODS:
+  - JVGenericNotificationCenter (0.1.0)
+
+DEPENDENCIES:
+  - JVGenericNotificationCenter (from `../`)
+
+EXTERNAL SOURCES:
+  JVGenericNotificationCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVGenericNotificationCenter: 2d0fae5137f9c87b51ae80e4db73f53b06742572
+
+PODFILE CHECKSUM: 0b3e917e23c893932c5a07b0ef3bf2408e7114be
+
+COCOAPODS: 1.6.0.beta.1

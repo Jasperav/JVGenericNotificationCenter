@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVGenericNotificationCenter_Tests' do
+  pod 'JVGenericNotificationCenter', :path => '../'
+  
+  
+end

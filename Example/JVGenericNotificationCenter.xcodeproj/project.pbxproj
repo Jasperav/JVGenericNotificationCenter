@@ -13,14 +13,14 @@
 
 /* Begin PBXFileReference section */
 		10EFFDD14386272C914DC06A /* Pods_JVGenericNotificationCenter_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JVGenericNotificationCenter_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2DE62E5668D945BD0637E6CD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2DE62E5668D945BD0637E6CD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3A4B0FF9822897D5B4B9D67C /* Pods-JVGenericNotificationCenter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JVGenericNotificationCenter_Tests.release.xcconfig"; path = "Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* JVGenericNotificationCenter_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JVGenericNotificationCenter_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		C41596168DC431D6A9A011FE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C41596168DC431D6A9A011FE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E90C6D5A0D0F0A188F2CD377 /* Pods-JVGenericNotificationCenter_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JVGenericNotificationCenter_Tests.debug.xcconfig"; path = "Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F8D604360EBFE77A1B2407D1 /* JVGenericNotificationCenter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JVGenericNotificationCenter.podspec; path = ../JVGenericNotificationCenter.podspec; sourceTree = "<group>"; };
+		F8D604360EBFE77A1B2407D1 /* JVGenericNotificationCenter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JVGenericNotificationCenter.podspec; path = ../JVGenericNotificationCenter.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,6 @@
 				E90C6D5A0D0F0A188F2CD377 /* Pods-JVGenericNotificationCenter_Tests.debug.xcconfig */,
 				3A4B0FF9822897D5B4B9D67C /* Pods-JVGenericNotificationCenter_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -131,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

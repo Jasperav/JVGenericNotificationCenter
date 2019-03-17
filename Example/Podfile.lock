@@ -1,16 +1,23 @@
 PODS:
-  - JVGenericNotificationCenter (0.1.0)
+  - JVGenericNotificationCenter (0.1.2):
+    - JVJSONCodable
+  - JVJSONCodable (0.1.0)
 
 DEPENDENCIES:
   - JVGenericNotificationCenter (from `../`)
+
+SPEC REPOS:
+  "https://Jasperav@bitbucket.org/Jasperav/specs.git":
+    - JVJSONCodable
 
 EXTERNAL SOURCES:
   JVGenericNotificationCenter:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JVGenericNotificationCenter: 2d0fae5137f9c87b51ae80e4db73f53b06742572
+  JVGenericNotificationCenter: 3025a30700d7535026ead11bf0ae9cf4df4075d5
+  JVJSONCodable: 30c781f235799879566d436e22db6ddb876b4377
 
-PODFILE CHECKSUM: 0b3e917e23c893932c5a07b0ef3bf2408e7114be
+PODFILE CHECKSUM: 623fe17e6f303879d487de96a51df8f3bc5ef1bb
 
-COCOAPODS: 1.6.0.beta.1
+COCOAPODS: 1.6.1

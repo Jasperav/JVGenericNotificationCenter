@@ -1,6 +1,6 @@
 {
   "name": "JVGenericNotificationCenter",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A short description of JVGenericNotificationCenter.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/Jasperav/JVGenericNotificationCenter",
@@ -13,10 +13,15 @@
   },
   "source": {
     "git": "https://github.com/Jasperav/JVGenericNotificationCenter.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "11.0"
   },
-  "source_files": "JVGenericNotificationCenter/Classes/**/*"
+  "source_files": "JVGenericNotificationCenter/Classes/**/*",
+  "dependencies": {
+    "JVJSONCodable": [
+
+    ]
+  }
 }

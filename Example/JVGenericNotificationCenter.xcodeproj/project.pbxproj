@@ -132,6 +132,7 @@
 				TargetAttributes = {
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = N4EV3W64CV;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -198,12 +199,14 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/JVGenericNotificationCenter/JVGenericNotificationCenter.framework",
+				"${BUILT_PRODUCTS_DIR}/JVJSONCodable/JVJSONCodable.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVGenericNotificationCenter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVJSONCodable.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -269,7 +272,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -315,7 +318,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -327,6 +330,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E90C6D5A0D0F0A188F2CD377 /* Pods-JVGenericNotificationCenter_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = N4EV3W64CV;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -349,6 +353,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3A4B0FF9822897D5B4B9D67C /* Pods-JVGenericNotificationCenter_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = N4EV3W64CV;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",

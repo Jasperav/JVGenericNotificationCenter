@@ -8,103 +8,103 @@
 
 /* Begin PBXBuildFile section */
 		02E57428B8A82075810857735E8D66C1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */; };
-		040FDCBA5E3F7E5E0FA83DCFA4A262EA /* JVJSONCodable.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDCBD25F8BB19E619C359FECA34A11AE /* JVJSONCodable.framework */; };
-		0FD0C6351584614A840A0AC1EB9C9D6F /* Mapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB59D18409B012272725CE4576C622D7 /* Mapper.swift */; };
+		06C43DCAD057F48ABAC24A22FA451CAC /* JVJSONCodable-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1436BB9EB2F6EF1E024D8186E72801E0 /* JVJSONCodable-dummy.m */; };
 		14A3094C434514C4A4FD73A1BDBA443D /* Pods-JVGenericNotificationCenter_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E34728ED0A0FA31D60F25A132F57305E /* Pods-JVGenericNotificationCenter_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1F158B3F510BAEBBC7AFA4BC4F9606D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */; };
-		2CB3B04C1B988C71D6C45AA2E506B982 /* JSONCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F054061F4FFDB2A227C3A7709BE93E3C /* JSONCodable.swift */; };
-		3964D649DDCECA077BF9BE572D46AAE8 /* JVJSONCodable-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B9529648F5E592D16A96D2127B7C8FF3 /* JVJSONCodable-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		69CB722D223ED29200B6D8D2 /* Observer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CB722C223ED29200B6D8D2 /* Observer.swift */; };
-		864EB113C02969B1506F3EDC6BFBBEA8 /* JVGenericNotificationCenter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4FC8E4D05E4DE8DD06E70363FEF71606 /* JVGenericNotificationCenter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		89570BE7FAA391AF40D44695EF005894 /* JVGenericNotificationCenter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27605D73D532CC8825A6708FC5E413A1 /* JVGenericNotificationCenter-dummy.m */; };
-		C12A747411909FBC8CCCF9B1684A4556 /* JVJSONCodable-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1436BB9EB2F6EF1E024D8186E72801E0 /* JVJSONCodable-dummy.m */; };
-		DAECCAEDA5EC583DD04FE38F858E07D1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */; };
+		1D0EBF14CA6E34597BC3ED148752AB62 /* JSONCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F054061F4FFDB2A227C3A7709BE93E3C /* JSONCodable.swift */; };
+		29168245E6C7C109609FBCCA09C0CFB0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */; };
+		2FC00CEDEE8D8A219756F9B0C1A89B52 /* JVJSONCodable-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B9529648F5E592D16A96D2127B7C8FF3 /* JVJSONCodable-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5A3753C0722BEF89377F3B8F5F3AADCD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */; };
+		5CC91BF61AB915F047F89C6362DDA1C9 /* JVGenericNotificationCenter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FEA374AD985FA26F8E82B9EA692C2DAC /* JVGenericNotificationCenter-dummy.m */; };
+		690D276F261560A2AF674FE433AAB5EE /* Observer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47F857713D9E46DAF24384956FB9D45E /* Observer.swift */; };
+		76B6CDC9F3EE073DB0F6A2C004690BCA /* JVJSONCodable.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDCBD25F8BB19E619C359FECA34A11AE /* JVJSONCodable.framework */; };
+		7AF00A1AF2D5D42EDC00B18DC4CA5BB9 /* JVGenericNotificationCenter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C957E4BC44180A1B9A2E5AEA74C15FD /* JVGenericNotificationCenter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CFB6DEA52BFA63BD0CF5232AAD9610FD /* Mapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76BDF8F41F9E239ECC6E5DD29958EB97 /* Mapper.swift */; };
 		DDA9696824DED6E7DF60B6C90B9DB63E /* Pods-JVGenericNotificationCenter_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 398BD1F20371A8AB16AE6174884A633F /* Pods-JVGenericNotificationCenter_Tests-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2CBEEB92B7A2A0FEAD1644693D52BE72 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D1AF45DDAF571E2578C9197097EB4D27;
-			remoteInfo = JVJSONCodable;
-		};
 		3A656188A96F15CDB969246B3351C965 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D1AF45DDAF571E2578C9197097EB4D27;
+			remoteGlobalIDString = 96DCA8A63D04BBB8DCBE2B0A1D0CEB0D;
 			remoteInfo = JVJSONCodable;
 		};
 		F015CAEE7012C6ECE55500747860EEFD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = AFD9612F5F452796EFE5D30A7325448C;
+			remoteGlobalIDString = B5D984F56FF34C050DE2032450E19389;
 			remoteInfo = JVGenericNotificationCenter;
+		};
+		F9E7F3C1DEC7F2F8E4C774911C20968C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 96DCA8A63D04BBB8DCBE2B0A1D0CEB0D;
+			remoteInfo = JVJSONCodable;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		053609596839A782D9D1CDCEED7F0697 /* JVGenericNotificationCenter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVGenericNotificationCenter-Info.plist"; sourceTree = "<group>"; };
 		07B7B62B53E8489EF834DE6D01E6032C /* JVJSONCodable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVJSONCodable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1436BB9EB2F6EF1E024D8186E72801E0 /* JVJSONCodable-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVJSONCodable-dummy.m"; sourceTree = "<group>"; };
-		27605D73D532CC8825A6708FC5E413A1 /* JVGenericNotificationCenter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVGenericNotificationCenter-dummy.m"; sourceTree = "<group>"; };
+		1D4B1891AFD09190337EBEA32D17D28D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		320FF344E144635ED99FB4225E6A1B1C /* Pods-JVGenericNotificationCenter_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-JVGenericNotificationCenter_Tests.modulemap"; sourceTree = "<group>"; };
+		393501CE13582FD7A6F4DACC216EC219 /* JVGenericNotificationCenter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVGenericNotificationCenter.xcconfig; sourceTree = "<group>"; };
 		398BD1F20371A8AB16AE6174884A633F /* Pods-JVGenericNotificationCenter_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JVGenericNotificationCenter_Tests-dummy.m"; sourceTree = "<group>"; };
 		3C1E421AB218A67F5B6F1B1810C49196 /* Pods-JVGenericNotificationCenter_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JVGenericNotificationCenter_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		4063C6A90EC510AC4A2864EF4E1F0294 /* JVJSONCodable.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVJSONCodable.modulemap; sourceTree = "<group>"; };
 		40E2E0CA776D76D00F74597E22FCA0D0 /* Pods-JVGenericNotificationCenter_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JVGenericNotificationCenter_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		4B0BF1EA069CCE14CA721C48B363FBDE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		4FC8E4D05E4DE8DD06E70363FEF71606 /* JVGenericNotificationCenter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGenericNotificationCenter-umbrella.h"; sourceTree = "<group>"; };
+		47F857713D9E46DAF24384956FB9D45E /* Observer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Observer.swift; path = JVGenericNotificationCenter/Classes/Observer.swift; sourceTree = "<group>"; };
+		5C957E4BC44180A1B9A2E5AEA74C15FD /* JVGenericNotificationCenter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGenericNotificationCenter-umbrella.h"; sourceTree = "<group>"; };
 		5D21C284ED74C0772E6F9D76C2661089 /* JVJSONCodable-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVJSONCodable-prefix.pch"; sourceTree = "<group>"; };
-		5F692E5C8EA729E0C915D6AE4438F215 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		627F6C80DE299283B0734B1C593FADCB /* JVGenericNotificationCenter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGenericNotificationCenter-prefix.pch"; sourceTree = "<group>"; };
 		648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		69CB722C223ED29200B6D8D2 /* Observer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Observer.swift; path = JVGenericNotificationCenter/Classes/Observer.swift; sourceTree = "<group>"; };
 		69D113BB9A7E343D48FDD4C284F57E0D /* Pods-JVGenericNotificationCenter_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JVGenericNotificationCenter_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		8509B1C9891E0381F1B6B760C1630E4A /* JVGenericNotificationCenter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = JVGenericNotificationCenter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7223E1B4E71E36508DA5C9C08708C27C /* JVGenericNotificationCenter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGenericNotificationCenter-prefix.pch"; sourceTree = "<group>"; };
+		76BDF8F41F9E239ECC6E5DD29958EB97 /* Mapper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mapper.swift; path = JVGenericNotificationCenter/Classes/Mapper.swift; sourceTree = "<group>"; };
+		85FFE86756F82C8EDE921D3C34F56569 /* JVGenericNotificationCenter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVGenericNotificationCenter-Info.plist"; sourceTree = "<group>"; };
 		9AEAC1F93827529D7E914DF863F1E422 /* Pods_JVGenericNotificationCenter_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JVGenericNotificationCenter_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F38DF69EB39471C3878E8BFE96539E6 /* JVGenericNotificationCenter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = JVGenericNotificationCenter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A19CEA31AE709DA1BF15FF158EA6FF75 /* JVGenericNotificationCenter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVGenericNotificationCenter.modulemap; sourceTree = "<group>"; };
 		A83F553566D8C40EA5CC0F77BA43C6A7 /* JVJSONCodable-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVJSONCodable-Info.plist"; sourceTree = "<group>"; };
 		B19F4226D1BD4D975AA3364878F81B0F /* Pods-JVGenericNotificationCenter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JVGenericNotificationCenter_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B8891C8A13A865C087A164CE098304EC /* Pods-JVGenericNotificationCenter_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JVGenericNotificationCenter_Tests-Info.plist"; sourceTree = "<group>"; };
 		B9529648F5E592D16A96D2127B7C8FF3 /* JVJSONCodable-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVJSONCodable-umbrella.h"; sourceTree = "<group>"; };
 		BDCBD25F8BB19E619C359FECA34A11AE /* JVJSONCodable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVJSONCodable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CB59D18409B012272725CE4576C622D7 /* Mapper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mapper.swift; path = JVGenericNotificationCenter/Classes/Mapper.swift; sourceTree = "<group>"; };
 		CC3BC4EB37137ED337D3FAEC5C274DD7 /* JVGenericNotificationCenter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVGenericNotificationCenter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E22655CF782A1F91090922D85F16FAAB /* JVJSONCodable.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVJSONCodable.xcconfig; sourceTree = "<group>"; };
 		E34728ED0A0FA31D60F25A132F57305E /* Pods-JVGenericNotificationCenter_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JVGenericNotificationCenter_Tests-umbrella.h"; sourceTree = "<group>"; };
-		E63563399605F63580F87AE295505AF2 /* JVGenericNotificationCenter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVGenericNotificationCenter.xcconfig; sourceTree = "<group>"; };
 		F054061F4FFDB2A227C3A7709BE93E3C /* JSONCodable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JSONCodable.swift; path = JVJSONCodable/Classes/JSONCodable.swift; sourceTree = "<group>"; };
 		F17F281E8A9EE3BD1A449E988842EFA4 /* Pods-JVGenericNotificationCenter_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JVGenericNotificationCenter_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F4DB94F921F2897E98411B83EEFE2368 /* JVGenericNotificationCenter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVGenericNotificationCenter.modulemap; sourceTree = "<group>"; };
+		FEA374AD985FA26F8E82B9EA692C2DAC /* JVGenericNotificationCenter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVGenericNotificationCenter-dummy.m"; sourceTree = "<group>"; };
+		FF24744EF6D25747781621F2D6FD7ABE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		1D384722F8100CDA17A07E8E84D82C08 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A3753C0722BEF89377F3B8F5F3AADCD /* Foundation.framework in Frameworks */,
+				76B6CDC9F3EE073DB0F6A2C004690BCA /* JVJSONCodable.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		208B15C673BAA3A5BFBDBE9492BBB181 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29168245E6C7C109609FBCCA09C0CFB0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		339ACD7535E91EDE92439BA67CE5CEA3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				02E57428B8A82075810857735E8D66C1 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4D9B7F84530088711BFDFE200C3D05CD /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DAECCAEDA5EC583DD04FE38F858E07D1 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C4AD3561371117C5B925352A942D51BF /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1F158B3F510BAEBBC7AFA4BC4F9606D9 /* Foundation.framework in Frameworks */,
-				040FDCBA5E3F7E5E0FA83DCFA4A262EA /* JVJSONCodable.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,6 +117,18 @@
 				2A0225337FC16C01DB73BB28ABA80A90 /* JVJSONCodable */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		1419C027167BEFB1835D3E64B166BCB3 /* JVGenericNotificationCenter */ = {
+			isa = PBXGroup;
+			children = (
+				76BDF8F41F9E239ECC6E5DD29958EB97 /* Mapper.swift */,
+				47F857713D9E46DAF24384956FB9D45E /* Observer.swift */,
+				ED1E94C9BEAD58CAF999BDC3B3EA07F6 /* Pod */,
+				685F27BB599DB816F222335467053532 /* Support Files */,
+			);
+			name = JVGenericNotificationCenter;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		174B8D598CA00B2A47E38F5740C61E95 /* Products */ = {
@@ -138,30 +150,6 @@
 			path = JVJSONCodable;
 			sourceTree = "<group>";
 		};
-		577DB2C311B9880FACB0991502D96169 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F4DB94F921F2897E98411B83EEFE2368 /* JVGenericNotificationCenter.modulemap */,
-				E63563399605F63580F87AE295505AF2 /* JVGenericNotificationCenter.xcconfig */,
-				27605D73D532CC8825A6708FC5E413A1 /* JVGenericNotificationCenter-dummy.m */,
-				053609596839A782D9D1CDCEED7F0697 /* JVGenericNotificationCenter-Info.plist */,
-				627F6C80DE299283B0734B1C593FADCB /* JVGenericNotificationCenter-prefix.pch */,
-				4FC8E4D05E4DE8DD06E70363FEF71606 /* JVGenericNotificationCenter-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/JVGenericNotificationCenter";
-			sourceTree = "<group>";
-		};
-		5FA8DD2F86D426694BD968D281BF0024 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				8509B1C9891E0381F1B6B760C1630E4A /* JVGenericNotificationCenter.podspec */,
-				5F692E5C8EA729E0C915D6AE4438F215 /* LICENSE */,
-				4B0BF1EA069CCE14CA721C48B363FBDE /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		66BE8A3F4957C44DD795F7A119B73A4F /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -170,16 +158,26 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		8CB5FB408293CD198D5CAFF8B295569F /* JVGenericNotificationCenter */ = {
+		685F27BB599DB816F222335467053532 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				CB59D18409B012272725CE4576C622D7 /* Mapper.swift */,
-				5FA8DD2F86D426694BD968D281BF0024 /* Pod */,
-				577DB2C311B9880FACB0991502D96169 /* Support Files */,
-				69CB722C223ED29200B6D8D2 /* Observer.swift */,
+				A19CEA31AE709DA1BF15FF158EA6FF75 /* JVGenericNotificationCenter.modulemap */,
+				393501CE13582FD7A6F4DACC216EC219 /* JVGenericNotificationCenter.xcconfig */,
+				FEA374AD985FA26F8E82B9EA692C2DAC /* JVGenericNotificationCenter-dummy.m */,
+				85FFE86756F82C8EDE921D3C34F56569 /* JVGenericNotificationCenter-Info.plist */,
+				7223E1B4E71E36508DA5C9C08708C27C /* JVGenericNotificationCenter-prefix.pch */,
+				5C957E4BC44180A1B9A2E5AEA74C15FD /* JVGenericNotificationCenter-umbrella.h */,
 			);
-			name = JVGenericNotificationCenter;
-			path = ../..;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/JVGenericNotificationCenter";
+			sourceTree = "<group>";
+		};
+		96AB3D386AD3C03DC4F8F3BA17E0E889 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1419C027167BEFB1835D3E64B166BCB3 /* JVGenericNotificationCenter */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		BF0BDDA69D2F52CFAC6E29B1D4050031 /* iOS */ = {
@@ -188,14 +186,6 @@
 				648A237573E8B0252CF62DD770BD69AE /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		C1DE3952680512C34405E01905B900D9 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				8CB5FB408293CD198D5CAFF8B295569F /* JVGenericNotificationCenter */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		C81127B902DDDE9CAE40E63C820A3605 /* Support Files */ = {
@@ -216,7 +206,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				C1DE3952680512C34405E01905B900D9 /* Development Pods */,
+				96AB3D386AD3C03DC4F8F3BA17E0E889 /* Development Pods */,
 				E1ADBE4AB74242EE8E7E3897E9D1EE35 /* Frameworks */,
 				074E20697DDE8C54ED5DD336CD82CA85 /* Pods */,
 				174B8D598CA00B2A47E38F5740C61E95 /* Products */,
@@ -231,6 +221,16 @@
 				BF0BDDA69D2F52CFAC6E29B1D4050031 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ED1E94C9BEAD58CAF999BDC3B3EA07F6 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				9F38DF69EB39471C3878E8BFE96539E6 /* JVGenericNotificationCenter.podspec */,
+				1D4B1891AFD09190337EBEA32D17D28D /* LICENSE */,
+				FF24744EF6D25747781621F2D6FD7ABE /* README.md */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		F19F924873170E5BE6A4F9E181181505 /* Pods-JVGenericNotificationCenter_Tests */ = {
@@ -253,19 +253,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		024564D1FC7B4FE0B7B5F49047D9A991 /* Headers */ = {
+		0623F0D9179F09C6990E483274EEBEB5 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3964D649DDCECA077BF9BE572D46AAE8 /* JVJSONCodable-umbrella.h in Headers */,
+				7AF00A1AF2D5D42EDC00B18DC4CA5BB9 /* JVGenericNotificationCenter-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5C65A07F9A4CA35FDE96017DF550C0F8 /* Headers */ = {
+		7A5610A8A8D94DE21624B39B6EA19CC1 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				864EB113C02969B1506F3EDC6BFBBEA8 /* JVGenericNotificationCenter-umbrella.h in Headers */,
+				2FC00CEDEE8D8A219756F9B0C1A89B52 /* JVJSONCodable-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,33 +300,14 @@
 			productReference = 9AEAC1F93827529D7E914DF863F1E422 /* Pods_JVGenericNotificationCenter_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		AFD9612F5F452796EFE5D30A7325448C /* JVGenericNotificationCenter */ = {
+		96DCA8A63D04BBB8DCBE2B0A1D0CEB0D /* JVJSONCodable */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2E2B75C2BDD5E88F080A0AAFD8B6BFCC /* Build configuration list for PBXNativeTarget "JVGenericNotificationCenter" */;
+			buildConfigurationList = 94167CAF12708C2C25BD493ED66E6FC2 /* Build configuration list for PBXNativeTarget "JVJSONCodable" */;
 			buildPhases = (
-				5C65A07F9A4CA35FDE96017DF550C0F8 /* Headers */,
-				E88D4F4A6B536484132C9A4C2F5F058F /* Sources */,
-				C4AD3561371117C5B925352A942D51BF /* Frameworks */,
-				643FB9C82384F61E81AB795C898225D7 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				FF26F80770DF3636928911682F7AE529 /* PBXTargetDependency */,
-			);
-			name = JVGenericNotificationCenter;
-			productName = JVGenericNotificationCenter;
-			productReference = CC3BC4EB37137ED337D3FAEC5C274DD7 /* JVGenericNotificationCenter.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		D1AF45DDAF571E2578C9197097EB4D27 /* JVJSONCodable */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7E9176AFA3C4DB040D210BB3E9F82D00 /* Build configuration list for PBXNativeTarget "JVJSONCodable" */;
-			buildPhases = (
-				024564D1FC7B4FE0B7B5F49047D9A991 /* Headers */,
-				C28FA414AE2B42DB0305675DC9EE5AF9 /* Sources */,
-				4D9B7F84530088711BFDFE200C3D05CD /* Frameworks */,
-				4014B2E54310BA7521994E8045447D92 /* Resources */,
+				7A5610A8A8D94DE21624B39B6EA19CC1 /* Headers */,
+				F69FE1484FA0AA3DB4DFEC91D3F75BFD /* Sources */,
+				208B15C673BAA3A5BFBDBE9492BBB181 /* Frameworks */,
+				1C8F0102367DC2710CB84D5A833951D5 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -335,6 +316,25 @@
 			name = JVJSONCodable;
 			productName = JVJSONCodable;
 			productReference = 07B7B62B53E8489EF834DE6D01E6032C /* JVJSONCodable.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		B5D984F56FF34C050DE2032450E19389 /* JVGenericNotificationCenter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D97C880E865D989F2AAC2DB15B324773 /* Build configuration list for PBXNativeTarget "JVGenericNotificationCenter" */;
+			buildPhases = (
+				0623F0D9179F09C6990E483274EEBEB5 /* Headers */,
+				EB827F216143C1F14E00962315D38435 /* Sources */,
+				1D384722F8100CDA17A07E8E84D82C08 /* Frameworks */,
+				A73C0EBEED634D86B52AF11357BBC05B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				840E7FF99D4BC957D56A0E39EDF342CE /* PBXTargetDependency */,
+			);
+			name = JVGenericNotificationCenter;
+			productName = JVGenericNotificationCenter;
+			productReference = CC3BC4EB37137ED337D3FAEC5C274DD7 /* JVGenericNotificationCenter.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -351,6 +351,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -358,22 +359,22 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AFD9612F5F452796EFE5D30A7325448C /* JVGenericNotificationCenter */,
-				D1AF45DDAF571E2578C9197097EB4D27 /* JVJSONCodable */,
+				B5D984F56FF34C050DE2032450E19389 /* JVGenericNotificationCenter */,
+				96DCA8A63D04BBB8DCBE2B0A1D0CEB0D /* JVJSONCodable */,
 				37A5B5B16C932E116897E495A05B1934 /* Pods-JVGenericNotificationCenter_Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4014B2E54310BA7521994E8045447D92 /* Resources */ = {
+		1C8F0102367DC2710CB84D5A833951D5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		643FB9C82384F61E81AB795C898225D7 /* Resources */ = {
+		A73C0EBEED634D86B52AF11357BBC05B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -398,22 +399,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C28FA414AE2B42DB0305675DC9EE5AF9 /* Sources */ = {
+		EB827F216143C1F14E00962315D38435 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CB3B04C1B988C71D6C45AA2E506B982 /* JSONCodable.swift in Sources */,
-				C12A747411909FBC8CCCF9B1684A4556 /* JVJSONCodable-dummy.m in Sources */,
+				5CC91BF61AB915F047F89C6362DDA1C9 /* JVGenericNotificationCenter-dummy.m in Sources */,
+				CFB6DEA52BFA63BD0CF5232AAD9610FD /* Mapper.swift in Sources */,
+				690D276F261560A2AF674FE433AAB5EE /* Observer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E88D4F4A6B536484132C9A4C2F5F058F /* Sources */ = {
+		F69FE1484FA0AA3DB4DFEC91D3F75BFD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0FD0C6351584614A840A0AC1EB9C9D6F /* Mapper.swift in Sources */,
-				69CB722D223ED29200B6D8D2 /* Observer.swift in Sources */,
-				89570BE7FAA391AF40D44695EF005894 /* JVGenericNotificationCenter-dummy.m in Sources */,
+				1D0EBF14CA6E34597BC3ED148752AB62 /* JSONCodable.swift in Sources */,
+				06C43DCAD057F48ABAC24A22FA451CAC /* JVJSONCodable-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,27 +424,27 @@
 		84096B294382F9D6571461D3DF6A83E5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = JVGenericNotificationCenter;
-			target = AFD9612F5F452796EFE5D30A7325448C /* JVGenericNotificationCenter */;
+			target = B5D984F56FF34C050DE2032450E19389 /* JVGenericNotificationCenter */;
 			targetProxy = F015CAEE7012C6ECE55500747860EEFD /* PBXContainerItemProxy */;
+		};
+		840E7FF99D4BC957D56A0E39EDF342CE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = JVJSONCodable;
+			target = 96DCA8A63D04BBB8DCBE2B0A1D0CEB0D /* JVJSONCodable */;
+			targetProxy = F9E7F3C1DEC7F2F8E4C774911C20968C /* PBXContainerItemProxy */;
 		};
 		ACFBB4FA112FA5E3CED2F50F95CB3322 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = JVJSONCodable;
-			target = D1AF45DDAF571E2578C9197097EB4D27 /* JVJSONCodable */;
+			target = 96DCA8A63D04BBB8DCBE2B0A1D0CEB0D /* JVJSONCodable */;
 			targetProxy = 3A656188A96F15CDB969246B3351C965 /* PBXContainerItemProxy */;
-		};
-		FF26F80770DF3636928911682F7AE529 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = JVJSONCodable;
-			target = D1AF45DDAF571E2578C9197097EB4D27 /* JVJSONCodable */;
-			targetProxy = 2CBEEB92B7A2A0FEAD1644693D52BE72 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		14C351961020D6CF1DDCE8316B06CB55 /* Debug */ = {
+		4B1D2BBFA10686E6C28F1DBFFDFE47D6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E63563399605F63580F87AE295505AF2 /* JVGenericNotificationCenter.xcconfig */;
+			baseConfigurationReference = 393501CE13582FD7A6F4DACC216EC219 /* JVGenericNotificationCenter.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -459,7 +460,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter.modulemap";
 				PRODUCT_MODULE_NAME = JVGenericNotificationCenter;
@@ -467,7 +468,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -522,13 +523,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -584,7 +585,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -592,10 +593,44 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
+		};
+		83DC4BFE4C70326862CC99520E133A86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 393501CE13582FD7A6F4DACC216EC219 /* JVGenericNotificationCenter.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter.modulemap";
+				PRODUCT_MODULE_NAME = JVGenericNotificationCenter;
+				PRODUCT_NAME = JVGenericNotificationCenter;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		9A59F04637C19D246A869102D6F88E6C /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -615,7 +650,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests.modulemap";
@@ -626,6 +661,38 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B2FD603D28AE213740D3375955A2B9AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E22655CF782A1F91090922D85F16FAAB /* JVJSONCodable.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JVJSONCodable/JVJSONCodable-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JVJSONCodable/JVJSONCodable-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JVJSONCodable/JVJSONCodable.modulemap";
+				PRODUCT_MODULE_NAME = JVJSONCodable;
+				PRODUCT_NAME = JVJSONCodable;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -650,7 +717,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-JVGenericNotificationCenter_Tests/Pods-JVGenericNotificationCenter_Tests.modulemap";
@@ -668,7 +735,7 @@
 			};
 			name = Release;
 		};
-		B6A94507E64F78E5A23C86CFE485DD6D /* Release */ = {
+		F628C4FA1DDC1212B2C71B93C4A2261D /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E22655CF782A1F91090922D85F16FAAB /* JVJSONCodable.xcconfig */;
 			buildSettings = {
@@ -685,77 +752,11 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVJSONCodable/JVJSONCodable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVJSONCodable/JVJSONCodable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVJSONCodable/JVJSONCodable.modulemap";
 				PRODUCT_MODULE_NAME = JVJSONCodable;
 				PRODUCT_NAME = JVJSONCodable;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		B89A8D5714923AE92442A9C90C97C52E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E22655CF782A1F91090922D85F16FAAB /* JVJSONCodable.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JVJSONCodable/JVJSONCodable-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JVJSONCodable/JVJSONCodable-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JVJSONCodable/JVJSONCodable.modulemap";
-				PRODUCT_MODULE_NAME = JVJSONCodable;
-				PRODUCT_NAME = JVJSONCodable;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		C9A4A3D990EF355E57800663378E36E1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E63563399605F63580F87AE295505AF2 /* JVGenericNotificationCenter.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JVGenericNotificationCenter/JVGenericNotificationCenter.modulemap";
-				PRODUCT_MODULE_NAME = JVGenericNotificationCenter;
-				PRODUCT_NAME = JVGenericNotificationCenter;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -770,15 +771,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2E2B75C2BDD5E88F080A0AAFD8B6BFCC /* Build configuration list for PBXNativeTarget "JVGenericNotificationCenter" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				14C351961020D6CF1DDCE8316B06CB55 /* Debug */,
-				C9A4A3D990EF355E57800663378E36E1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		3D21477C5CD63422B6D79BABDA431245 /* Build configuration list for PBXNativeTarget "Pods-JVGenericNotificationCenter_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -797,11 +789,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7E9176AFA3C4DB040D210BB3E9F82D00 /* Build configuration list for PBXNativeTarget "JVJSONCodable" */ = {
+		94167CAF12708C2C25BD493ED66E6FC2 /* Build configuration list for PBXNativeTarget "JVJSONCodable" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B89A8D5714923AE92442A9C90C97C52E /* Debug */,
-				B6A94507E64F78E5A23C86CFE485DD6D /* Release */,
+				B2FD603D28AE213740D3375955A2B9AF /* Debug */,
+				F628C4FA1DDC1212B2C71B93C4A2261D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D97C880E865D989F2AAC2DB15B324773 /* Build configuration list for PBXNativeTarget "JVGenericNotificationCenter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B1D2BBFA10686E6C28F1DBFFDFE47D6 /* Debug */,
+				83DC4BFE4C70326862CC99520E133A86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

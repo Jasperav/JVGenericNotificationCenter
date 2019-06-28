@@ -10,6 +10,8 @@ public protocol NotificationCenterSendable: Codable {
 
 public extension NotificationCenterSendable {
     func post() {
+        assert(Thread.isMainThread)
+        
         NotificationCenter.default.post(name: Self.notificationName, object: nil, userInfo: encode())
     }
 }

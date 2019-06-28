@@ -1,7 +1,7 @@
 PODS:
-  - JVGenericNotificationCenter (0.1.2):
+  - JVGenericNotificationCenter (0.1.3):
     - JVJSONCodable
-  - JVJSONCodable (0.1.0)
+  - JVJSONCodable (0.1.1)
 
 DEPENDENCIES:
   - JVGenericNotificationCenter (from `../`)
@@ -15,8 +15,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JVGenericNotificationCenter: 3025a30700d7535026ead11bf0ae9cf4df4075d5
-  JVJSONCodable: 30c781f235799879566d436e22db6ddb876b4377
+  JVGenericNotificationCenter: aa248bf7ce6a6a014e49917aeaca2294e9669ba0
+  JVJSONCodable: f7802593adaccf981224f606059016b5c7edabca
 
 PODFILE CHECKSUM: 623fe17e6f303879d487de96a51df8f3bc5ef1bb
 
